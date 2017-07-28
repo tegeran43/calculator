@@ -1,0 +1,8 @@
+c:\Users\admin\documents\visual studio 2017\Projects\Calcul\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\Users\admin\documents\visual studio 2017\Projects\Calcul\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\Users\admin\documents\visual studio 2017\Projects\Calcul\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\Users\admin\documents\visual studio 2017\Projects\Calcul\ConsoleApp1\bin\Debug\Calcul.dll
+c:\Users\admin\documents\visual studio 2017\Projects\Calcul\ConsoleApp1\bin\Debug\Calcul.pdb
+c:\Users\admin\documents\visual studio 2017\Projects\Calcul\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+c:\Users\admin\documents\visual studio 2017\Projects\Calcul\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\Users\admin\documents\visual studio 2017\Projects\Calcul\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

@@ -1,0 +1,4 @@
+c:\users\admin\documents\visual studio 2017\Projects\Calcul\Calcul\bin\Debug\Calcul.dll
+c:\users\admin\documents\visual studio 2017\Projects\Calcul\Calcul\bin\Debug\Calcul.pdb
+c:\users\admin\documents\visual studio 2017\Projects\Calcul\Calcul\obj\Debug\Calcul.dll
+c:\users\admin\documents\visual studio 2017\Projects\Calcul\Calcul\obj\Debug\Calcul.pdb
